@@ -1,0 +1,21 @@
+# requirements_content = """
+# fastapi
+# pydantic
+# requests
+# python-dotenv
+# openai
+# uvicorn
+# """
+
+# project_dir = "/path/to/your/project"
+# with open(os.path.join(project_dir, "requirements.txt"), 'w') as f:
+#     f.write(requirements_content.strip())
+
+# print("FastAPI backend project created successfully.")
+
+fastapi
+pydantic
+requests
+python-dotenv
+openai
+uvicorn
