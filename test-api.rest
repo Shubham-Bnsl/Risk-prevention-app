@@ -1,0 +1,11 @@
+### Test Risk API
+POST http://localhost:5000/api/risk/info
+Content-Type: application/json
+
+{
+  "location": "Pune",
+  "pincode": "411057",
+  "property_type": "apartment",
+  "property_value": 7500000,
+  "property_age": 2
+}
